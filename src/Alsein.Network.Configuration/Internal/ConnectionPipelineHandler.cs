@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace Alsein.Network.Core.Internal
+namespace Alsein.Network.Configuration.Internal
 {
     internal class ConnectionPipelineHandler<TOut, TIn> : IConnectionPipelineNode<TOut, TIn>
     {

@@ -1,4 +1,4 @@
-namespace Alsein.Network.Core
+namespace Alsein.Network.Configuration
 {
     /// <summary>
     /// 

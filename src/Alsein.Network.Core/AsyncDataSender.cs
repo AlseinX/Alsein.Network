@@ -1,7 +1,7 @@
 
 using System.Threading.Tasks;
 
-namespace Alsein.Network
+namespace Alsein.Network.Configuration
 {
     /// <summary>
     /// 
